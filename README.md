@@ -51,6 +51,7 @@ Shivam Kumar
 Shiwangi Priya
 
 Harshit Gupta
+Vanshita Mandloi
 ## Instructions for Team Members
 
 ### 1. Repository Setup
