@@ -45,6 +45,8 @@ Ram Sankar S
 Nishit Gupta
 
 Shiwangi Priya
+
+Harshit Gupta
 ## Instructions for Team Members
 
 ### 1. Repository Setup
